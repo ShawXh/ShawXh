@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Hao Xiong, a currently forth-year Ph.D. students at ReThinklab, SJTU, supervised by Prof. Junchi Yan.
+I am Hao Xiong, currently an assistant professor at AI3 Institute of Fudan. I got my Ph.D. degree at ReThinklab, SJTU, supervised by Prof. Junchi Yan.
 
 <!--
 **ShawXh/ShawXh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
